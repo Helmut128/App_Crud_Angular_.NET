@@ -19,4 +19,12 @@ Angular Material usado en el FronEnd
 
 -Se actualiza la lista de empleados
 
+-Boton de borrar funcionando
+
+![image](https://github.com/Helmut128/App_Crud_Angular_.NET/assets/65142656/4572674d-7975-46cc-a294-3b998e7c3979)
+
+-Empleado eliminado y actualización de la lista
+
+![image](https://github.com/Helmut128/App_Crud_Angular_.NET/assets/65142656/16b87fcb-caeb-47db-aa73-3072195e114b)
+
 
