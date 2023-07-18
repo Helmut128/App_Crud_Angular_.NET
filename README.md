@@ -1,27 +1,22 @@
 # FronEndCrud
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.2.
+Angular Material usado en el FronEnd
 
-## Development server
+-Muestra usuarios de la base de datos
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![image](https://github.com/Helmut128/App_Crud_Angular_.NET/assets/65142656/431f2f54-08c0-47b2-8093-17b6ecd139ca)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+-Añadir usuarios en la base de datos
 
-## Build
+![image](https://github.com/Helmut128/App_Crud_Angular_.NET/assets/65142656/988101be-7a6d-41e1-952b-7605df53d0d6)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+-Mensaje de que el usuario ha sido creado con exito
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![image](https://github.com/Helmut128/App_Crud_Angular_.NET/assets/65142656/d72d0ea8-a1fc-4a27-b3fe-6fc29e245fa5)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+-Se actualiza la lista de empleados
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
